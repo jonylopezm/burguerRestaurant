@@ -449,7 +449,7 @@ body{
     }
 
     .slider-txt h1{
-       font-size: 50px;
+       font-size: 30px;
     }
 
     .slider-txt p{
@@ -491,6 +491,10 @@ body{
         flex-direction: column;
     }
 
+    .info-img{
+        width: 100%;
+        text-align: center;
+    }
     .info-img img {
         width: 400px;
         height: 200px;
