@@ -395,7 +395,8 @@ body{
 
 @media(max-width: 991px){
     .menu{
-        padding: 20px;
+        padding: 10px;
+        margin: 10px 80px;
         justify-content: space-between;
     }
 
@@ -422,6 +423,7 @@ body{
         right: 0;
         background-color: #181818;
         display: none;
+        text-align: center;
     }
 
     .menu .navbar ul li{
