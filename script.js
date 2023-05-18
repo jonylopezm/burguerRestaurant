@@ -9,7 +9,7 @@ var swiper = new Swiper(".mySwiper-1", {
     },
     navigation:{
         nextEl:".swiper-button-next",
-        nextEl:".swiper-button-prev",
+        prevEl:".swiper-button-prev",
     }
 })
 

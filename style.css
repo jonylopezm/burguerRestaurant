@@ -496,8 +496,8 @@ body{
         text-align: center;
     }
     .info-img img {
-        width: 400px;
-        height: 200px;
+        width: 290px;
+        height: 160px;
         margin-bottom: 25px;
     }
 
@@ -507,7 +507,7 @@ body{
     }
 
     .info-txt h2{
-        font-size: 50px;
+        font-size: 30px;
     }
     
     .info-txt p{
@@ -525,7 +525,7 @@ body{
     }
 
     .horario-info h2{
-        font-size: 50px;
+        font-size: 30px;
         margin-bottom: 15px;
     }
 
